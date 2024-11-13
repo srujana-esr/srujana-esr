@@ -21,11 +21,6 @@
 - **Cross-Browser Compatibility, Performance Optimization, Accessibility Compliance (WCAG)**
 - **Tools:** Git, Jira, Bitbucket, Confluence
 
-## 📈 Professional Highlights
-- **Journal Finder MVP:** Designed and developed a journal recommendation tool, reducing team workload by 50% and increasing conversion rates.
-- **KPI Dashboard:** Created an interactive data dashboard, visualizing 15,000+ data points, resulting in a 35% boost in reporting efficiency.
-- **Design Systems:** Built a design system that accelerated development across projects by 30%, ensuring seamless and consistent UX.
-
 ## 🚀 Current Interests
 I’m always exploring innovative ways to enhance frontend development through modern design practices, accessibility, and emerging technologies in data visualization and AI-driven solutions.
 
