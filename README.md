@@ -29,7 +29,7 @@ I’m actively seeking full-time or freelance roles with remote flexibility, foc
 
 ## 🌐 Connect with Me
 - **LinkedIn:** [linkedin.com/in/srujana-enduri](https://www.linkedin.com/in/srujana-enduri/)
-- **Twitter:** [twitter.com/SrujanaReddyE](https://twitter.com/SrujanaReddyE)
+- **X (Formerly known as Twitter):** [https://x.com/srujanaESR](https://x.com/srujanaESR)
 
 ---
 
