@@ -1,12 +1,8 @@
 # 👋 Hi there! I'm Srujana Enduri
 
-🌟 **Senior Software Engineer** based in Canada with 10 years of experience designing and developing high-performance applications, from MVPs to scalable enterprise solutions. I bring a strong focus on creating impactful, user-centric interfaces and complex data visualizations that drive business results.
+🌟 **Senior UX/UI Engineer** based in Canada with 10 years of experience designing and developing high-performance applications, from MVPs to scalable enterprise solutions. I bring a strong focus on creating impactful, user-centric interfaces and complex data visualizations that drive business results.
 
 ## 🛠️ Core Skills & Tech Stack
-
-### Backend & Deployment:
-- **Technologies:** Node.js, AWS, CI/CD, Docker, Kubernetes, python, Java, C#, .Net, Golang, Grpc
-- **Methodologies:** Test-Driven Development (Jest), Agile/Scrum practices, WCAG accessibility standards, performance optimization
 
 ### Frontend Development:
 - **Languages & Frameworks:** React.js, TypeScript, JavaScript, Next.js, Vue.js, Angular, GraphQL, Remix
@@ -16,6 +12,10 @@
 ### Data & Visualization:
 - **Visualization Tools:** three.js, Canvas API, SVG
 - **Projects:** Built KPI dashboards with complex data visualizations, leveraging large data sets and enhancing data accessibility
+
+### Backend & Deployment:
+- **Technologies:** Node.js, AWS, CI/CD, Docker, Kubernetes, python, Java, C#, .Net, Golang, Grpc
+- **Methodologies:** Test-Driven Development (Jest), Agile/Scrum practices, WCAG accessibility standards, performance optimization
 
 ### Additional Expertise:
 - **Cross-Browser Compatibility, Performance Optimization, Accessibility Compliance (WCAG)**
