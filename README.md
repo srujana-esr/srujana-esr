@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Srujana Enduri
 
-🌟 **Senior UX/UI Engineer** based in Canada with 10 years of experience designing and developing high-performance applications, from MVPs to scalable enterprise solutions. I bring a strong focus on creating impactful, user-centric interfaces and complex data visualizations that drive business results.
+🌟 **Senior UX/UI Engineer** based out of Canada with 10 years of experience designing and developing high-performance applications, from MVPs to scalable enterprise solutions. I bring a strong focus on creating impactful, user-centric interfaces and complex data visualizations that drive business results.
 
 ## 🛠️ Core Skills & Tech Stack
 
@@ -10,7 +10,7 @@
 - **Design Systems:** Extensive experience in building and implementing cohesive design systems across projects, ensuring consistency and efficiency
 
 ### Data & Visualization:
-- **Visualization Tools:** three.js, Canvas API, SVG
+- **Visualization Tools:** three.js, WebGL, Canvas API, SVG
 - **Projects:** Built KPI dashboards with complex data visualizations, leveraging large data sets and enhancing data accessibility
 
 ### Backend & Deployment:
@@ -19,7 +19,7 @@
 
 ### Additional Expertise:
 - **Cross-Browser Compatibility, Performance Optimization, Accessibility Compliance (WCAG)**
-- **Tools:** Git, Jira, Bitbucket, Confluence
+- **Tools:** Git, Jira, Bitbucket, Confluence, Notion
 
 ## 🚀 Current Interests
 I’m always exploring innovative ways to enhance frontend development through modern design practices, accessibility, and emerging technologies in data visualization and AI-driven solutions.
