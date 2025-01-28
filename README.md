@@ -2,6 +2,8 @@
 
 🌟 **Senior UX/UI Engineer** based out of Canada with 10 years of experience designing and developing high-performance applications, from MVPs to scalable enterprise solutions. I bring a strong focus on creating impactful, user-centric interfaces and complex data visualizations that drive business results.
 
+Note: This is a pretty new account, my previous account, work with all pet projects deleted in an experiement of building an ai agent for github. 
+
 ## 🛠️ Core Skills & Tech Stack
 
 ### Frontend Development:
