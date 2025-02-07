@@ -10,12 +10,12 @@
 - **Design Systems:** Extensive experience in building and implementing cohesive design systems across projects, ensuring consistency and efficiency
 
 ### Data & Visualization:
-- **Visualization Tools:** three.js, WebGL, Canvas API, SVG
+- **Visualization Tools:** D3.j, Three.js, WebGL, Canvas API, SVG
 - **Projects:** Built KPI dashboards with complex data visualizations, leveraging large data sets and enhancing data accessibility
 
 ### Backend & Deployment:
-- **Technologies:** Node.js, AWS, CI/CD, Docker, Kubernetes, python, Java, C#, .Net, Golang, Grpc
-- **Methodologies:** Test-Driven Development (Jest), Agile/Scrum practices, WCAG accessibility standards, performance optimization
+- **Technologies:** Node.js, AWS, CI/CD pipelines, Docker, Kubernetes, python, Java, C#, .Net, Golang, Grpc
+- **Methodologies:** Test-Driven Development (Jest), Cypress, React-Testing Library, Agile/Scrum practices, WCAG accessibility standards, performance optimization
 
 ### Additional Expertise:
 - **Cross-Browser Compatibility, Performance Optimization, Accessibility Compliance (WCAG)**
