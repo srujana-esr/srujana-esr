@@ -1,36 +1,44 @@
 # 👋 Hi there! I'm Srujana Enduri
 
-🌟 **Senior UX/UI Engineer** based out of Canada with 10 years of experience designing and developing high-performance applications, from MVPs to scalable enterprise solutions. I bring a strong focus on creating impactful, user-centric interfaces and complex data visualizations that drive business results.
-
-## 🛠️ Core Skills & Tech Stack
-
-### Frontend Development:
-- **Languages & Frameworks:** React.js, TypeScript, JavaScript, Next.js, Vue.js, Angular, GraphQL, Remix
-- **UI Tools:** Storybook, Figma, Adobe Creative Suite
-- **Design Systems:** Extensive experience in building and implementing cohesive design systems across projects, ensuring consistency and efficiency
-
-### Data & Visualization:
-- **Visualization Tools:** D3.j, Three.js, WebGL, Canvas API, SVG
-- **Projects:** Built KPI dashboards with complex data visualizations, leveraging large data sets and enhancing data accessibility
-
-### Backend & Deployment:
-- **Technologies:** Node.js, AWS, CI/CD pipelines, Docker, Kubernetes, python, Java, C#, .Net, Golang, Grpc
-- **Methodologies:** Test-Driven Development (Jest), Cypress, React-Testing Library, Agile/Scrum practices, WCAG accessibility standards, performance optimization
-
-### Additional Expertise:
-- **Cross-Browser Compatibility, Performance Optimization, Accessibility Compliance (WCAG)**
-- **Tools:** Git, Jira, Bitbucket, Confluence, Notion
-
-## 🚀 Current Interests
-I’m always exploring innovative ways to enhance frontend development through modern design practices, accessibility, and emerging technologies in data visualization and AI-driven solutions.
-
-## 🔍 Open to Opportunities
-I’m actively seeking full-time or freelance roles with remote flexibility, focused on impactful projects with a strong end-to-end process.
-
-## 🌐 Connect with Me
-- **LinkedIn:** [linkedin.com/in/srujana-enduri](https://www.linkedin.com/in/srujana-enduri/)
-- **X (Formerly known as Twitter):** [https://x.com/srujanaESR](https://x.com/srujanaESR)
+🌟 **Senior Full-Stack Engineer** based in Canada, with over 10 years of experience crafting high-performance digital products - from sleek MVPs to scalable enterprise platforms. I specialize in building user-centric interfaces, architecting robust backend systems, and delivering data-rich, visually engaging dashboards that drive real business impact.
 
 ---
 
-💼 Let’s connect to create intuitive and high-performing digital experiences!
+## 🛠️ Core Skills & Tech Stack
+
+### 💻 Frontend Development
+- **Languages & Frameworks:** React.js, TypeScript, JavaScript, Next.js, Vue.js, Angular, Remix, GraphQL
+- **Design Systems & UI:** Figma, Adobe Creative Suite, Storybook
+- **Strengths:** Pixel-perfect UI, custom component libraries, accessible and performant interfaces
+
+### 📊 Data Visualization
+- **Libraries & Tools:** D3.js, Three.js, WebGL, SVG, Canvas API
+- **Notable Work:** Built enterprise-grade KPI dashboards and complex visualizations handling large data sets with real-time interactivity
+
+### ⚙️ Backend & Deployment
+- **Languages & Infra:** Node.js, Python, Java, Golang, C#, .NET
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD, gRPC, REST APIs
+- **Methodologies:** TDD, Agile/Scrum, performance tuning, WCAG-compliant development
+
+### 🔧 Development Tools
+- Git, Bitbucket, Jira, Confluence, Notion, Vite, Webpack, Cypress, Jest, React Testing Library
+
+---
+
+## 🚀 What I’m Into Right Now
+Exploring the intersection of frontend engineering, 3D design, and AI-powered tooling. I’m particularly excited about building immersive, data-rich, and accessible digital experiences.
+
+---
+
+## 📢 Open to Collaborations & Roles
+I’m seeking for opportunities that push boundaries—projects where engineering meets art, and where design isn't an afterthought.
+
+---
+
+## 🌐 Connect with Me
+- **LinkedIn:** [linkedin.com/in/srujana-enduri](https://www.linkedin.com/in/srujana-enduri/)
+- **Twitter (X):** [x.com/srujanaESR](https://x.com/srujanaESR)
+
+---
+
+💼 Let’s build something game-changing. I'm all in.
